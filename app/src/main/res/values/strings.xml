@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sing a Song</string>
+
+    <array name="musics">
+        <item>Duman - Beni Yak Kendini Yak</item>
+        <item>Tarkan - Firuze</item>
+        <item>Sezen Aksu - Ah İstanbul</item>
+        <item>Serdar Ortaç - Gıybet</item>
+    </array>
+</resources>
